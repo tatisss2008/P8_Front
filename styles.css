@@ -1,0 +1,17 @@
+#resultado {
+    text-align: center;
+    font-weight: bold;
+    font-family: fantasy;
+    font-size: x-large;
+    font-size: 40px;    
+
+    margin-right: 150px;
+    margin-left: 150px;
+    border: 2px solid blue;
+    box-sizing: content-box;
+      
+  }
+
+  /* .container {
+    border: solid;
+  } */
